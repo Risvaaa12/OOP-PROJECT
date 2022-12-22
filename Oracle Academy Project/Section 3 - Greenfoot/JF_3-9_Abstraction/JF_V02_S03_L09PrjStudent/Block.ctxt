@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Block
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Block\ here.\r\n\ \r\n\ @author\ (Risva)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=maxturnspeed
+comment1.target=Block(int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3
